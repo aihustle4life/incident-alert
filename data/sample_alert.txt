@@ -1,0 +1,14 @@
+Alert: Elevated error rate in checkout service
+Severity: High
+Status: Investigating
+Detected: 2026-11-16 16:45 UTC
+Service: checkout-api
+
+Summary:
+The checkout API is returning more HTTP 5xx responses than usual.
+
+Impact:
+Some customers may be unable to complete purchases.
+
+Notes:
+This is synthetic sample data for local testing.
